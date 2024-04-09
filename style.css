@@ -1,0 +1,12 @@
+body{
+
+background-size: cover;
+background: linear-gradient(to bottom,#ff0000,#000000);
+min-height: 100vh;
+}
+
+
+.layout{
+    text-align: center;
+}
+
